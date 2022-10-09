@@ -1,7 +1,7 @@
 /***** BASE STYLES *****/
 body{
     background-color:black;
-    color: black;
+    color: white;
     font-family: 'Source Sans Pro', sans-serif;
 }
 
@@ -101,6 +101,7 @@ nav ul li a {
 /***** CONTACT *****/
 #contact {
     background-color: white;
+    color: black;
 }
 #contact .full-width {
     padding: 110px 0;
@@ -155,7 +156,6 @@ nav ul li a {
 /***** RESUME *****/
 #resume header {
     margin-top: -65px;
-    padding-bottom: -60px;
 }
 
 #resume h1 {
@@ -721,10 +721,6 @@ iframe {
       height: 40px;
       width: 60px;
     }
-  }
-  
-  .banner {
-    display: relative;
   }
   
   .banner .body {
