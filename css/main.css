@@ -9,19 +9,16 @@ body{
 .full-width {
     margin: 0 auto;
     overflow: auto;
-    max-width: 1200px;
-    width: 100%;
+    width: 1200px;
     
 }
 .half-width {
     float: left;
-    max-width: 600px;
-    width: 50%;
+    width: 600px;
 }
 .third-width {
     float: left;
-    max-width: 400px;
-    width: 33%;
+    width: 400px;
 }
 
 /***** HEADER *****/
